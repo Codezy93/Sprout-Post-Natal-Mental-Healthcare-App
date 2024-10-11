@@ -1,0 +1,53 @@
+{
+    "UserData" : {
+        "id" : "",
+        "email" : "",
+        "createdOn" : "",
+        "username" : ""
+    },
+    "NutritionData" : {
+        "Carbohydrates" : 0,
+        "Proteins" : 0,
+        "Fats" : 0,
+        "Water" : 0,
+        "Calories" : 0
+    },
+    "ShoppingData" : {
+        "BabyFormula": 0,
+        "Diaper": 0,
+        "Wipes": 0,
+        "BurpCloths": 0,
+        "DiaperBags": 0,
+        "BabyOil": 0,
+        "BabySoap": 0,
+        "BabyShampoo": 0
+    },
+    "HealthData" : {
+        "age": 0,
+        "weight": 0,
+        "height": 0,
+        "BMI": 0.0,
+        "Exercise": 0,
+        "PPDState": 0
+    },
+    "ScoreData" : {
+        "TotalPo0,s" : 0,
+        "TotalExercise" : 0,
+        "DailyPo0,s" : [],
+        "DailyJournalEntries" : 0,
+        "AvgDailyJournalScore" : 0.0,
+        "TaskCompleted" : 0,
+        "DailyGratitudeSeen" : 0
+    },
+    "RemainderData" : {
+        "Remainders ": [],
+        "RemainderDate" : {}
+    },
+    "DailyJournalData" : {
+        "EntryDate": {},
+        "ScoreDate" : {}
+    },
+    "DailyStats": {
+        "gratitude": ["0", "0"]
+    }
+}

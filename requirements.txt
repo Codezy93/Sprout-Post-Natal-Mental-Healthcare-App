@@ -1,0 +1,16 @@
+langchain_openai
+langchain
+python-dotenv
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+tensorflow
+dython
+colorama
+lightgbm
+xgboost
+catboost
+keras
+pyarrow
